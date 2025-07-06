@@ -1,5 +1,3 @@
-# Eyad Shami Personal Website - README
-
 ## About
 This is a simple personal website about me to share information, projects, and contact details.
 
